@@ -1,3 +1,12 @@
+# Pagination with react-pdf-js sandbox
+
+This code is to demonstrate a solution for implementing pagination using the react-pdf-js library. This sandox was created as part of a spike with the goal of learning more about the library and how best to utilize it within the context of a client project. It is worth noting that this implementation is not formally tested but will serve as a good starting point for how to leverage the tool as part of a commercial application. 
+
+## Steps to check it out locally
+1. Clone the repo
+2. Run `$ yarn start`
+3. Toggle the pages of the pdf with the buttons at the bottom of the webpage
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
